@@ -28,9 +28,9 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/TMraz/Huddle-landing-page.github.io)
+- [Solution URL](https://github.com/TMraz/Fylo-dark-theme-landing-page-solution.github.io)
 
-- [Live Site URL](https://tmraz.github.io/Huddle-landing-page.github.io/)
+- [Live Site URL](https://tmraz.github.io/Fylo-dark-theme-landing-page-solution.github.io/)
 
 ## My process
 
