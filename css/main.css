@@ -1,0 +1,232 @@
+body {
+    width: 1440px;
+    height: auto;
+    padding: 4rem;
+}
+
+h1 {
+    font-size: 2.8rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+a {
+    font-size: 1.3rem;
+}
+
+/* === HEADER === */
+.main-menu li {
+    margin: 0 1.5rem;
+}
+
+.logo img {
+    height: 4rem;
+}
+
+/* === MAIN === */
+main {
+    width: 100%;
+    margin: 2rem auto;
+}
+
+.post-header {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.post-header img {
+    max-width: 1000px;
+    padding: .5rem 0;
+}
+.post-header p {
+    font-size: 1.35rem;
+    padding: 1rem 8rem;
+    opacity: .8;
+}
+
+.btn {
+    font-size: 1.2rem;
+
+    padding: 1rem 6rem;
+}
+
+/* === ARTICLE === */
+article {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.card-list li {
+    width: 45%;
+    margin: 2rem 0;
+    display: inline-block;
+
+}
+
+.card-list img {
+    width: 5rem;
+    margin: .5rem 0;
+}
+
+.card-list p {
+    opacity: .8;
+    padding: 0 4rem;
+}
+
+.banner {
+    width: 100%;
+    margin: 4rem auto;
+    display: flex;
+}
+
+.banner img {
+    max-width: 35rem;
+    margin: 1rem 2rem;
+}
+
+.banner h3 {
+    width: 50%;
+    font-size: 2.3rem;
+    margin-top: 8rem;
+}
+
+.banner p {
+    width: 80%;
+    text-align: left;
+    margin: 1rem;
+    opacity: .8;
+}
+
+/* === ASIDE === */
+.testimonial {
+    display: flex;
+}
+
+.testimonial li {
+    padding: 1.5rem;
+    margin: 1.5rem 1rem;   
+}
+
+blockquote {
+    font-size: 1rem;
+}
+
+.testimonial > img {
+    width: 3rem;
+    position: absolute;
+    z-index: 1;
+    top: -.5rem;
+    left: .5rem;
+
+}
+
+.testimonial li:first-child {
+    position: relative;
+    z-index: 2;
+}
+
+
+/* === FOOTER === */
+footer {
+    max-height: 25rem;
+    padding-top: 8rem;
+    margin-top: 15rem;
+    position: relative;
+}
+.pos-absolute {
+    width: 60%;
+    height: auto;
+
+    position: absolute;
+    top: -10rem;
+    left: 20%;
+
+    margin-bottom: 0;
+}
+
+.pos-absolute h3 {
+    font-size: 1.8rem;
+}
+
+.pos-absolute p {
+    padding: 0 1rem;
+    opacity: .8;
+}
+
+form {
+    padding: 1rem .5rem;
+}
+
+input {
+    width: 60%;
+    font-size: .6rem;
+
+    margin: 0 1.5rem;
+}
+
+button {
+    width: 25%;
+}
+
+
+/*=== contact list style ===*/ 
+.contact {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+}
+
+.contact-list {
+    width: 50%;
+    height: 30%;
+    display: flex;
+    font-size: .9rem;
+}
+
+.contact-list li {
+    font-size: .9rem;
+
+    margin: 1.5rem 1rem;
+}
+
+address {
+    opacity:.8;
+}
+
+
+.tel a, .email a {
+    font-size: .9rem;
+    opacity: .8;
+}
+
+/* === about list style=== */
+
+.about-list {
+    width: 30%;
+    margin: 0 .5rem;
+    display: flex;
+}
+
+.about-list ul {
+    width: 30%;
+    margin: 0 1.5rem;
+}
+
+.about-list li {
+    font-size: .9rem;
+    margin: 1.5rem 0;
+    opacity: .8;
+}
+
+/* === social list style=== */
+
+.social ul [class*="fa fa-"]{
+    opacity: .8;
+}
+
+
+
